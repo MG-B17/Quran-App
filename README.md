@@ -10,7 +10,7 @@
 Built with Flutter
 
 ## 🎦 Video Demonstration
-🎥 [Watch App Demo]()
+🎥 [Watch App Demo](https://www.linkedin.com/posts/mostafa-galal-17-n_islamicapp-quran-adhkar-activity-7328923926309330944-a1Eb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFVnLiUBOzIS2YcbSJ9Dv1tz8wJKu0EsvVo)
 
 ## 📱 Screenshot
 ![Image](https://github.com/user-attachments/assets/adbf36e7-6119-4623-a9bf-e06dea8b5740)
